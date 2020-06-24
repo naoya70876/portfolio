@@ -49,7 +49,7 @@ header{
     width:100%;
     height:30px;
     position:absolute;
-    top:995px;
+    top:990px;
     left:0px;
     z-index:;
     opacity:;
@@ -79,12 +79,12 @@ header{
     top:30px;
     left:0px;
     padding-right:100%;
-    padding-bottom:238px;
+    padding-bottom:240px;
 }
 .profile-text h1{
     font-size:25px;
     position:absolute;
-    top:7px;
+    top:8px;
     left:310px;
 }
 .profile-text h2{
@@ -93,7 +93,6 @@ header{
     top:50px;
     left:310px;
 }
-
 
 /*second-wrapper*/
 .second-wrapper{
